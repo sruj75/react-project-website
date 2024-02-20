@@ -2,6 +2,8 @@ import React from 'react'
 import Navbar from "./Components.jsx/Navbar";
 import LandingPage from './Components.jsx/LandingPage';
 import Marque from './Components.jsx/Marque';
+import About from './Components.jsx/About';
+import Eyes from './Components.jsx/Eyes';
 
 function App() {
   return (
@@ -9,6 +11,8 @@ function App() {
       <Navbar/>
       <LandingPage/>
       <Marque/>
+      <About/>
+      <Eyes/>
     </div>
   )
 }
