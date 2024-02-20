@@ -8,7 +8,7 @@ function About() {
        <h1> The air will be thick with the stench of decay, and the echoes of anguished wails will pierce your soul.</h1>
       <h1> Each moment will stretch into eterity, a ceaseless cycle of torment and despair. </h1>
        <h1> Welcome to hell, where your darkest nightmares become your eternal reality. </h1>
-       <h1> -- Remember -- Lucifer is watching you -- you cant escape -- </h1>
+       <h1 className='text-5xl mt-10'>Lucifer is watching you </h1>
        <div className="border-t-[1px] border-gray-700 mt-20"> </div>
     </div>
   )

@@ -4,7 +4,7 @@ function LandingPage() {
   return (
     <div className=" w-full h-screen pt-1 text-red-700 bg-black">
   
-  <div className="textstructure mt-64 mb-80 px-20"> 
+  <div className="textstructure mt-20 mb-80 px-20"> 
   {["portfolio?", "The hell is empty", " And all the devils are here"].map ((item, index)=> {
     return <div className="masker font-['Times_New_Roman'] ">
          <h1 className="text-7xl uppercase leading-none font-medium">
